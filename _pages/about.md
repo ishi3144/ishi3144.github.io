@@ -21,7 +21,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey! I'm a final-year undergraduate at Indian Institute of Technology, Kanpur, majoring in Statistics and Data Science. I have worked as a Project Engineer Intern(AI Agents) at a high end startup UnifyApps. I am currently working with Prof. Soumyarup Sadhukan on Game Theory and Prof. Sayak Ray Chowdhury on Alignment Algorithms. 
+Hey! I'm a final-year undergraduate at Indian Institute of Technology, Kanpur, majoring in Statistics and Data Science. I have worked as a Project Engineer Intern(AI Agents) at UnifyApps. I am currently working with Prof. Soumyarup Sadhukan on Game Theory and Prof. Sayak Ray Chowdhury on Alignment Algorithms. 
 
 Research Interests : Applied Statistics, Game Theory, Sequential Decision Making(Reinforcement Learning), Language Model Optimization
 
