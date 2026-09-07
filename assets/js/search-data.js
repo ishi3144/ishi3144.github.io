@@ -78,6 +78,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_abstractive_summarization/";
             },},{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://drive.google.com/file/d/19zUEXtgaAyvywtl4rFNoc2_C5G3fZlUg/view?usp=sharing", "_blank");
+        },
+      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
