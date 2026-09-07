@@ -8,8 +8,6 @@ profile:
   align: right
   image: ishi_pic.JPG
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>ijain43000@gmail.com</p>
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
