@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Curriculum Vitae — Ishi Jain",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
