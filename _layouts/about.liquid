@@ -64,6 +64,18 @@ layout: default
       {% include selected_papers.liquid %}
     {% endif %}
 
+    <!-- Quick links -->
+    {% if page.quick_links and page.quick_links.size > 0 %}
+      <h2>quick links</h2>
+      <ul>
+        {% for link in page.quick_links %}
+          <li>
+            <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.title }}</a>{% if link.subtitle %} — {{ link.subtitle }}{% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">

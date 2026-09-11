@@ -11,6 +11,14 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
+quick_links:
+  - title: Shedding Light on the Russia–Ukraine War
+    subtitle: xKDR Forum working paper (contributor)
+    url: https://www.xkdr.org/paper/shedding-light-on-the-russia-ukraine-war
+  - title: "As We Leave '21: Terms and Conditions"
+    subtitle: Vox IITK
+    url: https://voxiitk.com/as-we-leave-21-terms-and-conditions/
+
 
 
 latest_posts:
