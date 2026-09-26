@@ -29,4 +29,4 @@ latest_posts:
 
 Hey! I am an AI Product Engineer at UnifyApps. I recently graduated from Indian Institute of Technology, Kanpur with a Bachelor's degree in Statistics and Data Science and a minor in Machine Learning. My research interests include Reinforcement Learning, Differential Privacy, Alignment Algorithms and Applied Statistics.
 
-Beyond academics, I'm an avid non-fiction reader, travel enthusiast, and passionate music lover (still holding out hope that I'll master an instrument one day).
+Beyond academics, I'm an avid reader, travel enthusiast, and passionate music lover (still holding out hope that I'll master an instrument one day).
